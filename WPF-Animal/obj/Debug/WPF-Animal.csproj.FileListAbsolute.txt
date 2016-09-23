@@ -1,0 +1,1 @@
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\bin\Debug\WPF-Animal.exe.config
