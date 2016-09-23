@@ -1,1 +1,14 @@
 \\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\bin\Debug\WPF-Animal.exe.config
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\bin\Debug\WPF-Animal.exe
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\bin\Debug\WPF-Animal.pdb
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\MainWindow.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\App.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal_MarkupCompile.cache
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal_MarkupCompile.lref
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\MainWindow.baml
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.g.resources
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF_Animal.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.exe
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.pdb
