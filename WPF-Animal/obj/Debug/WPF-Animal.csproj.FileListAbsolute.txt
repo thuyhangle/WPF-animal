@@ -12,3 +12,4 @@
 \\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.csproj.GenerateResource.Cache
 \\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.exe
 \\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\obj\Debug\WPF-Animal.pdb
+\\mac\home\documents\visual studio 2015\Projects\WPF-Animal\WPF-Animal\bin\Debug\AnimalDLL.pdb

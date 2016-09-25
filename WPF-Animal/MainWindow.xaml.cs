@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using AnimalDLL;
 
 namespace WPF_Animal
 {
@@ -24,5 +25,34 @@ namespace WPF_Animal
         {
             InitializeComponent();
         }
+
+        private void BtnClick(object sender, RoutedEventArgs e)
+        {
+            Cat cat = new Cat();
+            cat.SetSpecies();
+            cat.Color = CatColor.Text;
+            cat.Weight = CatWeight.Text;
+            cat.Owner = CatOwner.Text;
+
+            Shark shark = new Shark();
+            shark.SetSpecies();
+            shark.Color = SharkColor.Text;
+            shark.Weight = SharkWeight.Text;
+            shark.Length = Int32.Parse(SharkLength.Text);
+            string LengthOfShark = shark.Length.ToString();
+
+            tbCat.Text = "Spicies: " + cat.GetSpecies() + "\n"
+                       + "Color: " + cat.Color + "\n"
+                       + "Weight: " + cat.Weight + "\n"
+                       + "Owner: " + cat.Owner;
+
+            tbShark.Text = "Spicies: " + shark.GetSpecies() + "\n"
+                       + "Color: " + shark.Color + "\n"
+                       + "Weight: " + shark.Weight + "\n"
+                       + "Length: " + LengthOfShark;
+
+        }
     }
 }
+
+    
